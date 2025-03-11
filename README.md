@@ -1,6 +1,7 @@
 # 📚 Tabela de Livros e Autores (JSON → CSV)  
 
-Este projeto converte um arquivo **JSON** contendo informações sobre livros e seus autores em um arquivo **CSV** estruturado. Ele evita duplicação de autores e cria um identificador único para cada um, facilitando o armazenamento e análise dos dados.  
+Este projeto converte um arquivo **JSON** contendo informações sobre livros e seus autores em um arquivo **CSV** estruturado. 
+Ele evita duplicação de autores e cria um identificador único para cada um, facilitando o armazenamento e análise dos dados.  
 
 ---
 
@@ -28,7 +29,7 @@ pip install -r requirements.txt
 ## ▶ **Como Executar?**  
 Basta rodar o script Python:  
 ```bash
-python script.py
+python NOSQL.py
 ```
 
 ---
